@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_0 (Sun Microsystems Inc.)
+Main-Class: roart.pacman.game.Pacman
+
+Name: roart/pacman/game
+Extension-name: roart.pacman.game
