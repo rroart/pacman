@@ -9,7 +9,7 @@ public class Pacman {
     private static java.util.Random random = new java.util.Random();
 
     //change my name and you will be sued!!!!!!!!!!!!!!!!!!!!!!!!!!
-    private static String PACTITLE = "Enterprise Pacman v. 1_003 (C) 1995,1999,2000,2009,2011 by Roar Thronaes";
+    private static String PACTITLE = "Enterprise Pacman v. 1_003 (C) 1995,1999,2000,2009,2011,2012 by Roar Thronaes";
     //static String PACTITLE = "Pacman v. 1_003 \xa9 1995,1999,2000,2009 by Roar Thron\xe6s";
     // Copyright 1995 by Roar Thronaes
     // Copyright 1999 by Roar Thronaes
